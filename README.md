@@ -34,4 +34,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-Feito com ♥ por CaioF
+Feito com ♥ by CaioF
