@@ -5,9 +5,9 @@ function toggleMode() {
   const img = document.querySelector("#profile img");
 
   if (body.classList.contains("light")) {
-  img.setAttribute("src", "./imagens/gojo1.jpg");
+  img.setAttribute("src", "./Imagens/gojo1.jpg");
   } else {
-    img.setAttribute("src", "./imagens/gojo2.jpg");
+    img.setAttribute("src", "./Imagens/gojo2.jpg");
   }
 
 }
