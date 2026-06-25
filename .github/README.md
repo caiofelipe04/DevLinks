@@ -11,7 +11,9 @@
 
 
 <p align="center">
-  <img alt="projeto DevLinks" src="" width="100%">
+  <img alt="projeto DevLinks" src="./Imagem projeto.png" width="100%">
+  <br>
+  <p><h3>Visual responsivo do meu portfólio: versão mobile e desktop para demonstrar a adaptação da interface 🚀</p>
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](COLOCAR BREVE)
+- [Acesse o projeto finalizado, online](https://caiofelipe04.github.io/DevLinks/)
 
 ## 🔖 Layout
 
